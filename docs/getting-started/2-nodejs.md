@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Node JS
+# Golang
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
@@ -10,26 +10,27 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 Bagian ini wajib dilakukan sebelum melanjutkan ke bagian selanjutnya
 :::
 
-**Node.js** adalah platform perangkat lunak yang dirancang oleh Ryan Lienhart Dahl. **Node.js** adalah runtime untuk lingkungan JavaScript di luar web browser yang dibangun di atas `v8 JavaScript Engine`. Node.js dapat dijalankan pada `Windows, Mac OS X, dan Linux`
+**Go Language** merupakan kepanjangan dari bahasa pemrograman satu ini. Seperti kita tahu namanya diawali dengan Go, ya benar dia merupakan bahasa pemrograman yang dikelola oleh `Google`. Google tidak bekerja sendirian, melainkan bekerja sama dengan 3 orang tokoh handal pada tahun 2009. `Robert Griesemer, Rob Pike dan Ken Thompson` merupakan ketiga tokoh tersebut.
 
-## Kelebihan Node JS
+## Kelebihan Golang
+Golang memiliki keunggulannya tersendiri di antara sekian banyak bahasa pemrograman yang ada. Adapun keunggulan dari bahasa pemrograman Golang adalah sebagai berikut:
 
-1. Bekerja Dengan Konsep Non-blocking
-   Node.js bekerja dengan konsep `non-blocking`. Misalnya begini, ada dua proses yang berjalan yaitu proses A dan proses B. Sayangnya proses A mengalami blocking karena suatu hal. Meskipun demikian, Anda masih tetap bisa menjalankan proses B jika proses ini tidak membutuhkan output dari proses A. Itulah yang disebut konsep non-blocking. Dengan demikian, akan terjadi efisiensi.
+1. Golang memiliki fitur garbage collector <br />
+   Kehadiran **gerbage collector** yang artinya sistem `pengelolaan memorinya lebih mudah`. Jika dibandingkan bahasa pemrograman lainnya Golang dengan mudah dapat mengumpulkannya dalam satu garbage collector.
 
-2. Cepat Dalam Mengeksekusi Kode
-   **Kelebihan** lainnya yang dimiliki oleh Node.js adalah kemampuannya dalam mengeksekusi dengan cepat. Hal ini juga bisa terjadi berkat `engine V8 dari Google` yang digunakan untuk membuat Node.js
+2. Struktur data dan algoritmanya mudah untuk dipelajari oleh pemula <br />
+   **Kelebihan** lainnya yang dimiliki oleh Golang adalah gaya sintaks Golang dinilai lebih sederhana sehingga lebih mudah dipahami dibandingkan bahasa pemrograman lainnya.
 
-3. Single-threaded
-   Node.js juga memiliki karakteristik `single-threade`d. Dengan karakter ini, program yang dibuat dengan Node.js akan mengalokasikan thread hanya pada proses yang sedang berlangsung sehingga kinerja program tersebut akan lebih ringan daripada program yang `multi-threaded`.
+3. Golang bisa meningkatkan performa <br />
+   Golang lebih mudah membuat pengunjung berkunjung ke aplikasi. Golang `dikompilasikan ke dalam kode mesin`, karenanya kecepatannya mampu melampaui bahasa pemrograman lainnya.
 
-4. Open source
+4. Open source<br />
    Platform ini bersifat `open source`, artinya semua orang bisa melihat struktur kode dari program tersebut. Selain itu, Anda juga bisa berkontribusi untuk mengembangkan program tersebut agar bisa lebih baik. 
 
-## Instalasi Node JS
+## Instalasi Golang
 
-1. Download Node.Js
-   Download terlebih dahulu file installer VSCode melalui situs resminya [nodejs.org](https://nodejs.org/en/)
+1. Download Golang
+   Download terlebih dahulu file installer VSCode melalui situs resminya [go.dev](https://go.dev/dl/)
 
    <img alt="image2" src={useBaseUrl('img/docs/image-0-1.png')} height="500px"/>
 

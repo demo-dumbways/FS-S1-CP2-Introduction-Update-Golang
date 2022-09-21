@@ -31,7 +31,7 @@ PostgreSQL mendukung sebagian besar dari standar SQL dan menawarkan banyak fitur
 1. Download Node.Js
    Download terlebih dahulu file installer `PostgreSQL` melalui situs resminya [postgresql.org](https://www.postgresql.org/download/)
 
-   <img alt="image2" src={useBaseUrl('img/docs/image-4-2.png')} width="100%"/>
+   <img alt="image2" src={useBaseUrl('img/docs/image-0-2.png')} width="100%"/>
 
 2. Proses Instalasi
    - Double klik pada file installer nya atau klik kanan kemudian pilih Run as Administrator.

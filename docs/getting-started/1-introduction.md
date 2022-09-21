@@ -7,7 +7,7 @@ slug: /
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-Bagi para pemula yang ingin belajar Aplikasi Web e-book ini mencakup tentang dasar-dasar penggunaan CSS Frameworkm, NodeJS, dan pengenalan Postgree sampai dengan meluncurkan aplikasi web kedalam sebuah server. Penyusunan e-book ini berdasarkan hasil studi dan hasil dari materi latihan dalam proses belajar dan mengajar di dumbways.id.
+Bagi para pemula yang ingin belajar Aplikasi Web e-book ini mencakup tentang dasar-dasar penggunaan CSS Framework, Golang, dan pengenalan Postgree sampai dengan meluncurkan aplikasi web kedalam sebuah server. Penyusunan e-book ini berdasarkan hasil studi dan hasil dari materi latihan dalam proses belajar dan mengajar di dumbways.id.
 
 Hasil akhir yang akan diajarkan pada e-book chapter 2 ini dapat dilihat pada gambar berikut
 
