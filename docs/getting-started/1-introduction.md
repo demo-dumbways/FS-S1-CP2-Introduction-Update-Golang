@@ -12,6 +12,7 @@ Bagi para pemula yang ingin belajar Aplikasi Web e-book ini mencakup tentang das
 Hasil akhir yang akan diajarkan pada e-book chapter 2 ini dapat dilihat pada gambar berikut
 
 <img alt="image1-1" src={useBaseUrl('img/docs/image-introduction.png')} height="500px"/>
+
 <br/>
 <br/>
 <div>
